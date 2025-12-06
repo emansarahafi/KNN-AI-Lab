@@ -1,4 +1,4 @@
-# KNN-AI-Lab
+# K-Nearest Neighbors (KNN) AI Lab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emansarahafi/KNN-AI-Lab/blob/main/LAB_KNN_EmanSarahAfi.ipynb)
 
